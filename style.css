@@ -1,0 +1,127 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: palegoldenrod;
+    padding: 10px;
+}
+header{
+    font-family: sans-serif;
+    margin: 0 auto;
+    width: 1000px;
+    height: 110px;
+    background-color: rgb(0, 255, 0);
+    padding-left: 40%;
+    text-transform: capitalize;
+    font-size: 10px;
+    padding-top: 15px;
+    margin-bottom: 20px;
+}
+header > p{
+    margin-top: 10px;
+    font-size: 14px;
+}
+article {
+    font-family: sans-serif;
+    margin: 0 auto;
+    width: 1000px;
+    padding-top: 15px;
+    text-align: center;
+    border: 2px solid #af9f9f;
+    height: 50px;
+    background-color: white; 
+    margin-bottom: 20px;
+    border-bottom: none;
+}
+
+main {
+    display: flex;
+    height: 450px;
+    margin-bottom: 20px;
+}
+
+aside {
+    width: 25%;
+}
+.childTwo{
+    width: 75%;
+    border-left: 1px solid ;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.child_1 > h2, .child_2 > h2{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    background-color: rgb(0, 255, 0);
+    width: 200px;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+} 
+h3{
+    font-family: sans-serif;
+}
+.brinchiFarzand{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.lorim{
+    margin-top: 20px;
+}
+.ikkinchiFarzand{
+    /* font-family: sans-serif; */
+    display: flex;
+}
+.nevara_1{
+    width: 50%;
+}
+.nevara_2{
+    width: 50%;
+    border-left: 1px solid black;
+    padding-left: 20px;
+}
+
+footer {
+    margin: 0 auto;
+    width: 1000px;
+    bottom: 1px solid rgb(128, 85, 0);
+    height: 50px;
+    padding-top: 15px;
+    background-color:  rgb(0, 255, 0);
+    text-align: center;
+}
+
+.lor{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+button {
+    margin-left: 70px;
+   background-color: rgb(0, 255, 0);
+   padding: 10px;
+   font-weight: 600;
+   border-left: none;
+}
+article>a{
+    text-decoration: none;
+    padding-right: 70px;
+    color: rgb(106, 106, 167);
+}
+.main9{
+    margin: 0 auto;
+    background-color: white;
+    width: 1000px;
+    height: 480px;
+}
+.itms{
+    margin-left: 20px;
+}
+.black_text1{
+    margin-left: 20px;
+}
+
